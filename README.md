@@ -19,5 +19,5 @@ HR 실무자가 스스로 **업무를 개선하고 고도화할 수 있도록 �
 |Tool Name|Contents|
 |-----------|--------------------------------------------|
 |[XL-AutoMail](./XL-AutoMail/README.md)|Excel과 Outlook을 연동해 수신자별 맞춤 메일을 자동 생성·발송하는 대량 메일 자동화 도구입니다.|
-|[XL-DailyPayroll](./DailyPayroll/README.md)|Blank|
-|[XL-PdfLock](./PdfLock/README.md)|Blank|
+|[XL-DailyPayroll](./XL-DailyPayroll/README.md)|Blank|
+|[XL-PdfLock](./XL-PdfLock/README.md)|Excel과 qpdf를 연동해 여러 PDF 파일의 암호를 자동으로 설정하거나 해제하는 보안 자동화 도구입니다.|
