@@ -112,7 +112,7 @@ mList 시트에서는 메일 수신자와 수신자 별로 변경이 필요한 �
 
 ### 5) XLAutoMAIL 메일보내기
 
-![mSend01](pics/mSend01.jpg)
+![mSend01](Pics/mSend01.jpg)
 
 각 시트에 모든 내용 입력이 완료되었으면 XLAutoMAIL 리본메뉴를 통해 Outlook으로 메일을 자동으로 발송합니다.
 메일 컨텐츠 작성이 완료되었다면 **Contents Update**를 눌러야 Outlook에 적용됩니다.
