@@ -1,6 +1,6 @@
 # 🧩AutoHR
 
-AutoHR는 HR 운영 업무를 자동화하기 위한 프로젝트입니다.  
+AutoHR는 HR 운영 업무를 자동화하기 위한 프로젝트입니다.
 Excel, VBA, Power Query, Python 등을 활용해 HR ERP 시스템을 보조하고,
 급여·근태·보상 등 주요 HR 프로세스의 반복 업무를 최소화하는 것을 목표로 합니다.
 
