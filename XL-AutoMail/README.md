@@ -14,7 +14,7 @@
 
 ***
 ## 프로그램 다운로드
-[XLAutoMAIL_V1.0.1.zip 다운로드](https://github.com/vveekzero/AutoHR/blob/main/XL-AutoMail/Files/XLAutoMAIL_V1.0.1_.zip)
+[XLAutoMAIL_V1.0.1.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-AutoMail/Files/XLAutoMAIL_V1.0.1_.zip)
 
 ※ zip 압축 파일입니다. 반드시 압축을 풀고 사용하세요.(샘플 메일을 위한 샘플 이미지 및 첨부파일이 포함되어 있습니다.)
 - zip 파일에는 샘플 메일을 위한 샘플 이미지 및 첨부파일이 포함되어 있습니다.
