@@ -14,19 +14,8 @@
 
 ***
 ## 파일 다운로드
-[XL-PDFLock_V0.1.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-PDFLock/Files/XL-PDFLock_V1.0.zip)
+[XL-PDFLock_V0.1.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-PDFLock/Files/XL-PdfLock_V1.0.zip)
 ※ zip 압축 파일입니다. 반드시 압축을 풀고 사용하세요.
 
 ## 파일 사용법
-| Sheet | Contents |
-|:------|:----------|
-| Overview | 개요 |
-| Regulation | 일용근로자 관련 법령 및 정의 및 내부 운영 지침 |
-| 0.Setting | 일용근로자 급여계산설정 |
-| 1.EE_List | 일용근로자 인적사항 |
-| 2.WorkLog | 일용근로자 근무기록입력 및 급여계산 |
-| 3.Payslip | 일용근로자 급여명세서 |
-| 4.PaySummary | 일자별 지급내역 정리 |
-| 5.Tax_SI | 원천세 신고 & 4대보험 신고를 위한 정리 |
-| 6.Accounting | 회계전표 양식으로 변환 |
-
+![Usage](Files/XL-PDFLock.jpg)<br>
