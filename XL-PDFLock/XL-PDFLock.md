@@ -18,4 +18,5 @@
 ※ zip 압축 파일입니다. 반드시 압축을 풀고 사용하세요.
 
 ## 파일 사용법
-![Usage](./Files/XL-PDFLock.JPG)
+![Macri](./Files/XL-PDFLock1.jpg)<br>
+![Usage](./Files/XL-PDFLock2.jpg)
