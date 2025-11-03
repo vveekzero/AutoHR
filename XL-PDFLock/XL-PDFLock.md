@@ -10,7 +10,7 @@
 > - 선택옵션(암호, 해제, 변경)과 파일명을 지정해 대량 PDF 처리
 > - 에러 감지 및 로그 표시
 
-※ PC에 Microsoft Outlook이 설치되어 있어야 합니다.
+※ 이 도구는 [qpdf](https://github.com/qpdf/qpdf) 엔진을 기반으로 작동하며, Excel에서 `qpdf.exe`를 호출해 PDF 암호화·해제·재암호화를 수행합니다.
 
 ***
 ## 파일 다운로드
