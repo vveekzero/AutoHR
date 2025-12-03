@@ -14,7 +14,7 @@
 
 ***
 ## 파일 다운로드
-[XL-DailyPayroll_V0.9.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-DailyPayroll/Files/XL-DailyPayroll_V0.9.zip)
+[XL-DailyPayroll_V0.9.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-DailyPayroll/Files/Daily%20Worker%20Payroll_V0.9.zip)
 ※ zip 압축 파일입니다. 반드시 압축을 풀고 사용하세요.(
 
 ## 파일 구성
